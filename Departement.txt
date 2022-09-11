@@ -10,5 +10,6 @@ int num;
 
 int numero;
 String Employer;
+int depo;
 
 }
