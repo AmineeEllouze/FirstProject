@@ -6,4 +6,5 @@ String name;
 String adresse;
 String country;
 String secondName;
+int numero;
 }
