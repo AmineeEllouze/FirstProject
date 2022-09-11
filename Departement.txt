@@ -4,4 +4,5 @@ Class Departement
 int surface;
 String name;
 String adresse;
+String country;
 }
