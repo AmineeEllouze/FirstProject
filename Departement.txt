@@ -1,0 +1,5 @@
+Class Departement
+{
+int surface;
+String name;
+}
